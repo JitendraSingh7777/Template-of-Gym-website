@@ -1,2 +1,2 @@
 # Template-of-Gym-website
-Using the HTML &amp; CSS
+Using the HTML & CSS
